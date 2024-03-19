@@ -15,10 +15,10 @@ main:
 #     pdf: https://ieeexplore.ieee.org/abstract/document/10215742
 #     image: ./assets/img/icma.png
 #     notes: Oral Presentation
-  - title: A Mobile Manipulation System for Automated Replenishment in the Field of Unmanned Retail
-      authors: <strong>Dayou Li</strong>, Pengkun Wei, Chenkun Zhao, Shuo Yang, Yibin Li, Wei Zhang*(*Corresponding authors)
-      conference_short: ICMA
-      conference: IEEE International Conference on Mechatronics and Automation <strong>(ICMA)</strong>, 2023.
-      pdf: https://ieeexplore.ieee.org/abstract/document/10215742
-      image: ./assets/img/icma2.png
-      notes: Oral Presentation
+  # - title: A Mobile Manipulation System for Automated Replenishment in the Field of Unmanned Retail
+  #     authors: <strong>Dayou Li</strong>, Pengkun Wei, Chenkun Zhao, Shuo Yang, Yibin Li, Wei Zhang*(*Corresponding authors)
+  #     conference_short: ICMA
+  #     conference: IEEE International Conference on Mechatronics and Automation <strong>(ICMA)</strong>, 2023.
+  #     pdf: https://ieeexplore.ieee.org/abstract/document/10215742
+  #     image: ./assets/img/icma2.png
+  #     notes: Oral Presentation
