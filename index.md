@@ -13,8 +13,8 @@ I am currently a master’s student at Visual, Sensing and Intelligent System La
 
 ## News
 
-- **[Aug. 2023]** Our paper about container unloading is been selected to be the finalist of the Best Conference Paper Award in ICMA 2023.
-- **[Jun. 2023]** Our paper about mobile manipulation is selected to be the finalist of the Best Conference Paper Award in RCAR 2023.
+- **[Aug. 2023]** Our paper about container unloading is selected to be the **finalist of the Best Conference Paper Award** in ICMA 2023.
+- **[Jun. 2023]** Our paper about mobile manipulation is selected to be the **finalist of the Best Conference Paper Award** in RCAR 2023.
 
 {% include_relative _includes/publications.md %}
 
