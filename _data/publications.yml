@@ -1,13 +1,5 @@
 main:
 
-  - title: Multi-class 4-DoF Carton Box Detection for Heterogeneous Robotic Container Unloading
-    authors: Shuo Yang, <strong>Dayou Li</strong>, Chenkun Zhao, Pengkun Wei, Yibin Li, Wei Zhang* (*Corresponding authors)
-    conference_short: RCAR
-    conference: IEEE International Conference on Real-time Computing and Robotics <strong>(RCAR)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/document/10249938
-    image: ./assets/img/rcar.png
-    notes: Oral Presentation
-
   - title: A Mobile Manipulation System for Automated Replenishment in the Field of Unmanned Retail
     authors: <strong>Dayou Li</strong>, Pengkun Wei, Chenkun Zhao, Shuo Yang, Yibin Li, Wei Zhang*(*Corresponding authors)
     conference_short: ICMA
@@ -15,5 +7,16 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10215742
     image: ./assets/img/icma2.png
     notes: Oral Presentation
-    demo: https://youtu.be/yb6lSQGGbz8
+    demo: https://youtu.be/g6WrF-I7tNw
+
+  - title: Multi-class 4-DoF Carton Box Detection for Heterogeneous Robotic Container Unloading
+    authors: Shuo Yang, <strong>Dayou Li</strong>, Chenkun Zhao, Pengkun Wei, Yibin Li, Wei Zhang* (*Corresponding authors)
+    conference_short: RCAR
+    conference: IEEE International Conference on Real-time Computing and Robotics <strong>(RCAR)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10249938
+    image: ./assets/img/rcar.png
+    notes: Oral Presentation
+    demo: https://youtu.be/nYvCbNoYi5Y
+
+
  
