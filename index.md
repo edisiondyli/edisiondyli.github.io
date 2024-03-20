@@ -17,7 +17,7 @@ I am currently a master’s student at Visual, Sensing and Intelligent System La
 - **[Feb. 2024]** One paper submitted to RSS 2024.
 - **[Jan. 2024]** One paper submitted to ICARM 2024.
 - **[Aug. 2023]** Our paper about mobile manipulation is selected to be the [**finalist of the Best Conference Paper Award**](https://edisiondyli.github.io/assets/files/ICMA%202023%20AWARD.pdf) in ICMA 2023.
-- **[Jun. 2023]** Our paper about container unloading is selected to be the [**finalist of the Best Conference Paper Award**](https://edisiondyli.github.io/assets/files/ICMA%202023%20AWARD.pdf) in RCAR 2023.
+- **[Jun. 2023]** Our paper about container unloading is selected to be the [**finalist of the Best Conference Paper Award**]([https://edisiondyli.github.io/assets/files/ICMA%202023%20AWARD.pdf](https://github.com/edisiondyli/edisiondyli.github.io/blob/main/assets/files/IEEE%20RCAR2023%20Best%20paper%20finalist.pdf)) in RCAR 2023.
 
 {% include_relative _includes/publications.md %}
 
