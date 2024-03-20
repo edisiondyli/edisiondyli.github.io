@@ -19,12 +19,12 @@ I am currently a master’s student at Visual, Sensing and Intelligent System La
 - **[Aug. 2023]** Our paper about container unloading is selected to be the **finalist of the Best Conference Paper Award** in ICMA 2023.
 - **[Jun. 2023]** Our paper about mobile manipulation is selected to be the **finalist of the Best Conference Paper Award** in RCAR 2023.
 
-## Honors
-- Academic Scholarship, Shandong University (2 times), 2022-2024
-
-## Contest
-- Second Prize, National Undergraduate Mathematical Contest in Modeling (China), 2021
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Honors and Contests
+- Second Prize, National Undergraduate Mathematical Contest in Modeling (China), 2021
+- Academic Scholarship, Shandong University (2 times), 2022-2024
+
+
