@@ -1,6 +1,5 @@
 ## Lifestyle
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -27,20 +26,20 @@
 
 <div class="gallery">
   <div>
-    <img src="assets/img/icma2.png" alt="Duke Halloween">
-    <div class="caption">Duke Halloween.<br>2023.11, Duke University.</div>
+    <img src="assets/img/icma2.png" alt="Presentation in RCAR2023">
+    <div class="caption">Presentation in RCAR2023.<br>2023.07, Datong, China.</div>
   </div>
   <div>
-    <img src="assets/img/icma2.png" alt="Last dance in Levien Gym">
-    <div class="caption">Last dance in Levien Gym :(.<br>2022.12, Columbia.</div>
+    <img src="assets/img/icma2.png" alt="Presentation in ICMA2023">
+    <div class="caption">Presentation in ICMA2023 .<br>2023.08, Harbin, China.</div>
   </div>
   <div>
-    <img src="assets/img/icma2.png" alt="Columbia Boat Cruise Social">
-    <div class="caption">Columbia Boat Cruise Social.<br>2022.09, Columbia.</div>
+    <img src="assets/img/icma2.png" alt="xxx">
+    <div class="caption">xxx.<br>xxx.</div>
   </div>
   <div>
-    <img src="assets/img/icma2.png" alt="Shout out to Kobe">
-    <div class="caption">Shout out to Kobe.<br>2022.08, Los Angeles.</div>
+    <img src="assets/img/icma2.png" alt="xxx">
+    <div class="caption">xxx.<br>xxx.</div>
   </div>
 </div>
 
