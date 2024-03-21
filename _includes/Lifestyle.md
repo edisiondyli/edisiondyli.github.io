@@ -1,29 +1,5 @@
 ## Lifestyle
 
-<div class="lifestyle-columns">
-
-  <div class="lifestyle-col">
-    <img class="lifestyle-img" src="assets/img/icma2.png" alt="" />
-    <div class="caption_below">Duke Halloween.</div>
-    <div class="caption_below_lifestyle">2023.11, Duke University.</div>
-  </div>
-
-  <div class="lifestyle-col">
-    <img class="lifestyle-img" src="assets/img/icma2.png" alt="" />
-    <div class="caption_below">Last dance in Levien Gym :(.</div>
-    <div class="caption_below_lifestyle">2022.12, Columbia.</div>
-  </div>
-
-  <div class="lifestyle-col">
-    <img class="lifestyle-img" src="assets/img/icma2.png" alt="" />
-    <div class="caption_below">Columbia Boat Cruise Social.</div>
-    <div class="caption_below_lifestyle">2022.09, Columbia.</div>
-  </div>
-
-  <div class="lifestyle-col">
-    <img class="lifestyle-img" src="assets/img/icma2.png" alt="" />
-    <div class="caption_below">Shout out to Kobe.</div>
-    <div class="caption_below_lifestyle">2022.08, Los Angeles.</div>
-  </div>
-  
+<div style="position: relative; height: 200px;">
+    <img src="assets/img/imca2.png" alt="presentation in icma2023" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 </div>
