@@ -27,5 +27,5 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 - Second Prize, National Undergraduate Mathematical Contest in Modeling (China), 2021
 - Academic Scholarship, Shandong University (2 times), 2022-2024
 
-## Lifestyle 
+{% include_relative _includes/services.md %}
 
