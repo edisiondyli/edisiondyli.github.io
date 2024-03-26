@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), School of Control Science and Engineering, [Shandong University (SDU)](https://www.sdu.edu.cn/). Before that, I received my Bachelor’s degree in Mechanical Engineering at [Northeast Agriculture University (NEAU)](https://www.neau.edu.cn/).
+I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), School of Control Science and Engineering, [Shandong University (SDU)](https://www.sdu.edu.cn/). Before that, I received my Bachelor’s degree in Mechanical Engineering at [Northeast Agriculture University (NEAU)](https://www.neau.edu.cn/).
 
 ## Research Interests
 
