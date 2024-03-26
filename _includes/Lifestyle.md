@@ -26,11 +26,11 @@
 
 <div class="gallery">
   <div>
-    <img src="assets/img/rcar2.jpg" alt="Presentation in RCAR2023">
+    <img src="assets/img/pre2.jpg" alt="Presentation in RCAR2023">
     <div class="caption">Presentation at RCAR2023.<br>2023.07, Datong, China.</div>
   </div>
   <div>
-    <img src="assets/img/icma3.jpg" alt="Presentation in ICMA2023">
+    <img src="assets/img/pre1.jpg" alt="Presentation in ICMA2023">
     <div class="caption">Presentation at ICMA2023 .<br>2023.08, Harbin, China.</div>
   </div>
 <!--   <div>
