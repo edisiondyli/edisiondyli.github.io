@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://iros2024-abudhabi.org/"><autocolor>IEEE International Conference on ntelligent Robots and Systems (IROS) 2024</autocolor></a></li>
+  <li><a href="https://iros2024-abudhabi.org/"><autocolor>IEEE International Conference on Intelligent Robots and Systems (IROS) 2024</autocolor></a></li>
   <li><a href="http://www.ieee-arm.org/"><autocolor>IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2024</autocolor></a></li>
   <li><a href="http://2024.ieee-icra.org/"><autocolor>IEEE International Conference on Robotics and Automation (ICRA) 2024</autocolor></a></li>
   <li><a href="http://2023.ieee-icma.org/"><autocolor>IEEE International Conference on Mechatronics and Automation (ICMA) 2023</autocolor></a></li>
