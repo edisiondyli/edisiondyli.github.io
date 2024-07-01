@@ -22,7 +22,7 @@ main:
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10215742
-    image: ./assets/img/icma2.png
+    image: ./assets/img/MPGNet.jpg
     # notes: Oral Presentation
     demo: https://youtu.be/S_QKZqkh0w8
     
@@ -31,7 +31,7 @@ main:
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10215742
-    image: ./assets/img/icma2.png
+    image: ./assets/img/weilding.jpg
     # notes: Oral Presentation
     demo: https://youtu.be/pq162HSP2D4
 
@@ -40,7 +40,7 @@ main:
     conference_short: ICARM
     conference: IEEE International Conference on Advanced Robotics and Mechatronics <strong>(ICARM)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10215742
-    image: ./assets/img/icma2.png
+    image: ./assets/img/ICARM.jpg
     # notes: Oral Presentation
     demo: https://youtu.be/tgQ_K1Yj2c0    
     
