@@ -17,6 +17,15 @@ main:
   #   image: ./assets/img/icma2.png
   #   # notes: Oral Presentation
   #   demo: https://youtu.be/pq162HSP2D4
+  - title: MPGNet: Learning Move-Push-Grasping Synergy for Target-Oriented Grasping in Occluded Scenes
+    authors: <strong>Dayou Li</strong>, Chenkun Zhao, Shuo Yang, Ran Song, Xiaolei Li, Wei Zhang*(*Corresponding author)
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10215742
+    image: ./assets/img/icma2.png
+    # notes: Oral Presentation
+    demo: https://youtu.be/S_QKZqkh0w8
+    
   - title: Coarse-to-Fine Detection of Multiple Seams for Robotic Welding
     authors: Pengkun Wei, Shuo Cheng, <strong>Dayou Li</strong>, Ran Song, Yipeng Zhang, and Wei Zhang*(*Corresponding author)
     conference_short: IROS
