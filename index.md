@@ -13,8 +13,8 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 
 
 ## News
+- **[Jun. 2024]** Two papers accepted by IROS 2024.
 - **[Apr. 2024]** One paper accepted by ICARM 2024.
-- **[Mar. 2024]** Three papers are submitted to IROS 2024.
 - **[Aug. 2023]** Our paper about mobile manipulation is selected to be the [**finalist of the Best Conference Paper Award**](https://edisiondyli.github.io/assets/files/ICMA%202023%20AWARD.pdf) in ICMA 2023.
 - **[Jun. 2023]** Our paper about container unloading is selected to be the [**finalist of the Best Conference Paper Award**](https://edisiondyli.github.io/assets/files/IEEE%20RCAR2023%20Best%20paper%20finalist.pdf) in RCAR 2023.
 
