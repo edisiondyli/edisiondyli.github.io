@@ -17,7 +17,7 @@ cv_link: assets/files/ICMA 2023 AWARD.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/person.jpg
+avatar: ./assets/img/person1.jpg
 favicon: ./assets/img/pplogo.png
 favicon_dark: ./assets/img/favicon-dark.png
 
