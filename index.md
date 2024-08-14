@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), School of Control Science and Engineering, [Shandong University (SDU)](https://www.sdu.edu.cn/). I am dedicated to exploring efficient frameworks for robotic skill learning that can make general-purpose robots a reality.
+I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), [Shandong University (SDU)](https://www.sdu.edu.cn/). I am dedicated to exploring efficient frameworks for robotic skill learning that can make general-purpose robots a reality.
 
 
 ## Research Interests
