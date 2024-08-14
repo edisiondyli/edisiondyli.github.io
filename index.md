@@ -24,6 +24,8 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 
 ## Honors and Contests
 - Second Prize, National Undergraduate Mathematical Contest in Modeling (China), 2021
+- Merit Student Scholarship, Northeast Agricultural University (2 times), 2019-2022
+- Second Prize, National Mathematics Competition (China), 2021
 - Academic Scholarship, Shandong University (2 times), 2022-2024
 
 {% include_relative _includes/Lifestyle.md %}
