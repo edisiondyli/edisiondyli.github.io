@@ -27,7 +27,10 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 - Second Prize, National Undergraduate Mathematical Contest in Modeling (China), 2021
 - Merit Student Scholarship, Northeast Agricultural University (2 times), 2019-2022
 - Second Prize, National Mathematics Competition (China), 2021
+- IEEE RCAR Best Conference Paper Award (Finalist), 2023
+- IEEE ICMA Best Conference Paper Award (Finalist), 2023
 - Academic Scholarship, Shandong University (2 times), 2022-2024
+- Bronze Award, China International College Student Innovation Competition (SDU), 2024
 
 {% include_relative _includes/Lifestyle.md %}
 
