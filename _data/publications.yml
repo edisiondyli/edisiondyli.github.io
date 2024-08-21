@@ -21,7 +21,7 @@ main:
     authors: <strong>Dayou Li</strong>, Chenkun Zhao, Shuo Yang, Ran Song, Xiaolei Li, Wei Zhang*(*Corresponding author)
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-    # pdf: https://ieeexplore.ieee.org/abstract/document/10215742
+    pdf: https://arxiv.org/abs/2408.10525
     image: ./assets/img/MPGNet.jpg
     # notes: Oral Presentation
     demo: https://youtu.be/S_QKZqkh0w8
@@ -30,7 +30,7 @@ main:
     authors: Pengkun Wei, Shuo Cheng, <strong>Dayou Li</strong>, Ran Song, Yipeng Zhang, Wei Zhang*(*Corresponding author)
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-    # pdf: https://ieeexplore.ieee.org/abstract/document/10215742
+    pdf: https://arxiv.org/abs/2408.10710
     image: ./assets/img/weilding.jpg
     # notes: Oral Presentation
     demo: https://youtu.be/pq162HSP2D4
@@ -39,7 +39,7 @@ main:
     authors: <strong>Dayou Li</strong>, Chenkun Zhao, Shuo Yang, Lin Ma, Yibin Li, Wei Zhang*(*Corresponding author)
     conference_short: ICARM
     conference: IEEE International Conference on Advanced Robotics and Mechatronics <strong>(ICARM)</strong>, 2024.
-    # pdf: https://ieeexplore.ieee.org/abstract/document/10215742
+    pdf: https://arxiv.org/abs/2408.10658
     image: ./assets/img/ICARM.jpg
     # notes: Oral Presentation
     demo: https://youtu.be/tgQ_K1Yj2c0    
