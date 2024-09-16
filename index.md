@@ -8,6 +8,7 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 
 <p style="color: red;font-size: 20px;">I'm looking for a PhD position in Fall 2025.</p>
 
+**We are planning to attend IROS 2024, see you in Abu Dhabi!.**
 
 ## Research Interests
 
@@ -16,7 +17,6 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 
 
 ## News
-- **[Sep. 2024]** <p style="color: red;">We are planning to attend IROS2024, see you in Abu Dhabi!.</p>
 - **[Jun. 2024]** Two papers are accepted to IROS 2024.
 - **[Apr. 2024]** One paper is accepted to ICARM 2024.
 - **[Aug. 2023]** Our paper about mobile manipulation is selected as [**finalist of the Best Conference Paper**](https://edisiondyli.github.io/assets/files/ICMA%202023%20AWARD.pdf) in ICMA 2023.
