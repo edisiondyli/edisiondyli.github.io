@@ -8,7 +8,6 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 
 <p style="color: red;font-size: 20px;">I'm looking for a PhD position in Fall 2025.</p>
 
-**We plan to attend IROS2024, see you in Abu Dhabi!**
 
 ## Research Interests
 
