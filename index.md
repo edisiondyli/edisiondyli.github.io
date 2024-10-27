@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), [Shandong University (SDU)](https://www.sdu.edu.cn/). I am dedicated to exploring efficient frameworks for robotic skill learning that can make general-purpose robots a reality.
+I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), [Shandong University (SDU)](https://www.sdu.edu.cn/). I am dedicated to exploring efficient frameworks for robotic skill learning that can make general-purpose robots a reality. Before that, I received my bachelor's degree from Northeast Agricultural University, majoring in agricultural mechanization and automation (Honors class).
 
 <p style="color: red;font-size: 20px;">I'm looking for a PhD position in Fall 2025.</p>
-
-**We are planning to attend IROS 2024, see you in Abu Dhabi!.**
 
 ## Research Interests
 
