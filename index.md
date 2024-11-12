@@ -8,7 +8,9 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 
 <p style="color: red;font-size: 20px;">I'm looking for a PhD position in Fall 2025.</p>
 
-<p style="color: blue;font-size: 20px;">For most recent publication, [press here](https://scholar.google.com/citations?user=8wV8cnEAAAAJ&hl=zh-CN/).</p>
+<p style="color: blue;font-size: 20px;">
+  For most recent publication, <a href="https://scholar.google.com/citations?user=8wV8cnEAAAAJ&hl=zh-CN" style="color: blue; text-decoration: underline;">press here.</a>
+</p>
 
 ## Research Interests
 
