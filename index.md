@@ -6,10 +6,10 @@ layout: homepage
 
 I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), [Shandong University (SDU)](https://www.sdu.edu.cn/). I am dedicated to exploring efficient frameworks for robotic skill learning that can make general-purpose robots a reality. Before that, I received my bachelor's degree from Northeast Agricultural University, majoring in agricultural mechanization and automation (Honors class).
 
-<p style="color: red;font-size: 20px;">I will begin my Ph.D. study in Mechanical Engineering at Texas A&M University in Fall 2025 semester.</p>
+<p style="color: red;font-size: 15px;">I will begin my Ph.D. study in Mechanical Engineering at Texas A&M University in Fall 2025 semester.</p>
 
 <p style="color: red;font-size: 20px;">
-  <a href="dayou519@tamu.edu" style="color: red; text-decoration: underline;">Contact me</a> me for any research opportunities.
+  <a href="mailto:dayou519@tamu.edu" style="color: red; text-decoration: underline;">Contact me</a> me for any research opportunities.
 </p>
 
 <p style="color: blue;font-size: 20px;">
