@@ -9,7 +9,7 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 <p style="color: red;font-size: 17px;">I will begin my Ph.D. study at the J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University, in Fall 2025.</p>
 
 <p style="color: red;font-size: 20px;">
-  <a href="mailto:dayou519@tamu.edu" style="color: red; text-decoration: underline;">Contact me</a> me for any research opportunities.
+  <a href="mailto:dayou519@tamu.edu" style="color: red; text-decoration: underline;">Contact me</a> for any research opportunities.
 </p>
 
 <p style="color: blue;font-size: 20px;">
