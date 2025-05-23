@@ -7,6 +7,7 @@
   <li><a href="http://www.ieee-arm.org/"><autocolor>IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2024</autocolor></a></li>
   <li><a href="http://2024.ieee-icra.org/"><autocolor>IEEE International Conference on Robotics and Automation (ICRA) 2024</autocolor></a></li>
   <li><a href="http://2023.ieee-icma.org/"><autocolor>IEEE International Conference on Mechatronics and Automation (ICMA) 2023</autocolor></a></li>
+  <li><a href="https://2025humanoids.org/"><autocolor>2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)</autocolor></a></li>
 <!--   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>
 
