@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a first-year PhD student at the J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University, where I work closely with [Dr. Fan](https://zhiwenfan.github.io/). 
+
 I obtained my master's degree in June 2025 at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), Shandong University (SDU), under the supervision of [Prof. Zhang](https://vsislab.github.io/Weizhang/). Before that, I received my bachelor's degree from Northeast Agricultural University, majoring in agricultural mechanization and automation (Honors class).
 
 
