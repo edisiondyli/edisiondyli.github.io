@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a master’s student at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), [Shandong University (SDU)](https://www.sdu.edu.cn/). I am dedicated to exploring efficient frameworks for robotic skill learning that can make general-purpose robots a reality. Before that, I received my bachelor's degree from Northeast Agricultural University, majoring in agricultural mechanization and automation (Honors class).
+I am a first-year PhD student at the J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University, where I work closely with [Dr. Fan](https://zhiwenfan.github.io/). 
+I obtained my master's degree in June 2025 at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), Shandong University (SDU), under the supervision of [Prof. Zhang](https://vsislab.github.io/Weizhang/). Before that, I received my bachelor's degree from Northeast Agricultural University, majoring in agricultural mechanization and automation (Honors class).
 
-<p style="color: red;font-size: 17px;">I will begin my Ph.D. study at the J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University, in Fall 2025.</p>
 
 <p style="color: red;font-size: 20px;">
   <a href="mailto:dayou519@tamu.edu" style="color: red; text-decoration: underline;">Contact me</a> for any research opportunities.
@@ -18,8 +18,8 @@ I am currently a master’s student at [Visual, Sensing and Intelligent System L
 
 ## Research Interests
 
-- **Robotics:** reinforcement learning, imitation learning, large models application in robotics
-- **Computer Vision:** object detection, video diffusion
+- **Robotics:** reinforcement learning, VLA, VLN model
+- **Computer Vision:** 3D generation, video diffusion
 
 
 ## News
