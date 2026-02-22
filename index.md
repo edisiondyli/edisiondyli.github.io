@@ -24,7 +24,7 @@ Before joining TAMU, I obtained my master's degree in June 2025 at [Visual, Sens
 
 
 ## News
-- **[Nov. 2025]** Two papers are submitted to CVPR 2026.
+- **[Feb. 2026]** One paper is accepted to CVPR 2026 Findings.
 - **[Jun. 2024]** Two papers are accepted to IROS 2024.
 - **[Apr. 2024]** One paper is accepted to ICARM 2024.
 - **[Aug. 2023]** Our paper about mobile manipulation is selected as [**finalist of the Best Conference Paper**](https://edisiondyli.github.io/assets/files/ICMA%202023%20AWARD.pdf) in ICMA 2023.
