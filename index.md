@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the J. Mike Walker '66 Department of Mechanical Engineering at Texas A&M University, where I am fortunate to work with [Dr. Zhiwen Fan](https://zhiwenfan.github.io/).
+I am a first-year PhD student of the [Physical Automation Intelligence Lab](https://phai-lab.github.io/index.html) at Texas A&M University, where I am fortunate to work with [Dr. Zhiwen Fan](https://zhiwenfan.github.io/). I also have close collaboration with [Dr. Minghui Zheng](https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html)'s group.
 
 Before joining TAMU, I obtained my master's degree in June 2025 at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), Shandong University (SDU), under the supervision of [Prof. Wei Zhang](https://vsislab.github.io/Weizhang/).
 
@@ -19,8 +19,8 @@ Before joining TAMU, I obtained my master's degree in June 2025 at [Visual, Sens
 
 ## Research Interests
 
-- **Robotics:** reinforcement learning, VLA, VLN model
-- **Computer Vision:** 3D generation, video diffusion
+- **Robotics:** reinforcement learning, VLA, cross-embodiment learning
+- **Computer Vision:** 3D generation, world model
 
 
 ## News
