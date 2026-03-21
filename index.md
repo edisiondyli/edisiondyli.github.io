@@ -10,10 +10,6 @@ Before joining TAMU, I obtained my master's degree in June 2025 at [Visual, Sens
 
 
 <p style="color: red;font-size: 20px;">
-  <a href="mailto:dayou519@tamu.edu" style="color: red; text-decoration: underline;">Contact me</a> for any research opportunities.
-</p>
-
-<p style="color: blue;font-size: 20px;">
   For the most recent publication, <a href="https://scholar.google.com/citations?user=8wV8cnEAAAAJ&hl=zh-CN" style="color: blue; text-decoration: underline;">press here.</a>
 </p>
 
