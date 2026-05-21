@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student of the [Physical Automation Intelligence(PHAI) Lab](https://phai-lab.github.io/index.html) at Texas A&M University, where I am fortunate to work with [Dr. Zhiwen Fan](https://zhiwenfan.github.io/). I also have close collaboration with [Dr. Minghui Zheng](https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html)'s group.
+I am a first-year PhD student of the [Physical Automation Intelligence(PHAI) Lab](https://phai-lab.github.io/index.html) at Texas A&M University, advised by [Dr. Zhiwen Fan](https://zhiwenfan.github.io/) and [Dr. Minghui Zheng](https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html).
 
 Before joining TAMU, I obtained my master's degree in June 2025 at [Visual, Sensing and Intelligent System Laboratory (VSISLab)](http://www.vsislab.com/), [Key Laboratory of Machine Learning and System Control, Ministry of Education of PRC](https://misc.sdu.edu.cn/), Shandong University (SDU), under the supervision of [Prof. Wei Zhang](https://vsislab.github.io/Weizhang/).
 
