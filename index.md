@@ -20,6 +20,7 @@ Before joining TAMU, I obtained my master's degree in June 2025 at [Visual, Sens
 
 
 ## News
+- **[Jun. 2026]** 1 ECCV and 1 IROS papers got accepted.
 - **[Feb. 2026]** One paper is accepted to CVPR 2026 Findings.
 - **[Jun. 2024]** Two papers are accepted to IROS 2024.
 - **[Apr. 2024]** One paper is accepted to ICARM 2024.
