@@ -1,66 +1,65 @@
 main:
-  
-  # - title: MPGNet: Learning Move-Push-Grasping Synergy for Target-Oriented Grasping in Occluded Scenes
-  #   authors: <strong>Dayou Li</strong>, Chenkun Zhao, Shuo Yang, Ran Song, Xiaolei Li, Wei Zhang*(*Corresponding author)
-  #   conference_short: IROS
-  #   conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-  #   pdf: https://ieeexplore.ieee.org/abstract/document/10215742
-  #   image: ./assets/img/icma2.png
-  #   # notes: Oral Presentation
-  #   demo: https://youtu.be/S_QKZqkh0w8
-      
-  # - title: Coarse-to-Fine Detection of Multiple Seams for Robotic Welding
-  #   authors: Pengkun Wei, Shuo Cheng, <strong>Dayou Li</strong>, Ran Song, Yipeng Zhang, and Wei Zhang*(*Corresponding author)
-  #   conference_short: IROS
-  #   conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-  #   pdf: https://ieeexplore.ieee.org/abstract/document/10215742
-  #   image: ./assets/img/icma2.png
-  #   # notes: Oral Presentation
-  #   demo: https://youtu.be/pq162HSP2D4
-  - title: 'MPGNet: Learning Move-Push-Grasping Synergy for Target-Oriented Grasping in Occluded Scenes'
-    authors: <strong>Dayou Li</strong>, Chenkun Zhao, Shuo Yang, Ran Song, Xiaolei Li, Wei Zhang*(*Corresponding author)
+
+  # First-author papers
+
+  - title: Disentangling Task-Relevant Latent Dynamics for Reward Modeling
+    authors: <strong>Dayou Li</strong>*, Jionghao Wang*, Peihao Wang, Jiuzhou Lei, Hao Wang, Jichen Chai, Hezhen Hu, Minghui Zheng, Zhangyang Wang, Xin Li, Wenping Wang, Zhiwen Fan†
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2610.14159
+    page: https://ditarr.github.io/
+    image: ./assets/img/pub_ditar.jpg
+
+  - title: 'TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning'
+    authors: <strong>Dayou Li</strong>*, Hao Wang*, Qianqian Yang*, Zihao Zhu*, Haoquan Fang, Ziyao Zeng, Yan Han, Zihan Wang, Yan Wang, Baoru Huang, Dilin Wang, Kenji Shimada, Yiyue Luo, Manling Li, Teresa Lv, Mustafa Mukadam, Rakesh Ranjan, Ruohan Zhang, Qi He, Changliu Liu, Xu Chen, Marco Pavone, Bangya Liu, Jiachen Li, Masayoshi Tomizuka, Zhiwen Fan†
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2610.10288
+    page: https://touch-scale.github.io/
+    image: ./assets/img/pub_touchscale.jpg
+
+  - title: 'EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks'
+    authors: Lulin Liu*, <strong>Dayou Li</strong>*, Yiqing Liang, Sicong Jiang, Hitesh Vijay, Hezhen Hu, Xuhai Xu, Zirui Liu, Srinivas Shakkottai, Manling Li, Zhiwen Fan†
+    conference_short: CVPR Findings
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings <strong>(CVPR Findings)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2604.09535
+    page: https://ego-tl.github.io/
+    image: ./assets/img/pub_egotl.jpg
+
+  - title: Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis
+    authors: <strong>Dayou Li</strong>*, Lulin Liu*, Bangya Liu, Shijie Zhou, Jiu Feng, Ziqi Lu, Minghui Zheng, Chenyu You, Zhiwen Fan†
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2603.13615
+    page: https://egohoi.github.io/
+    image: ./assets/img/pub_egohoi.jpg
+
+  - title: Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis
+    authors: <strong>Dayou Li</strong>, Jiuzhou Lei, Hao Wang, Lulin Liu, Yunhao Yang, Zihan Wang, Bangya Liu, Minghui Zheng, Zhiwen Fan
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2603.13528
+    page: https://dream2fix.github.io/
+    image: ./assets/img/pub_dream2fix.jpg
+
+  # Collaborative papers
+
+  - title: 'RoboIRS: Inference-Time Internal Representation Steering for Generalist Robot Policies'
+    authors: Jiuzhou Lei, Chang Liu, <strong>Dayou Li</strong>, Zhiyuan Zhang, Xiao Liang, Yu She, Zhiwen Fan, Minghui Zheng
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2610.04681
+    page: https://rollingoat.github.io/roboirs/
+    image: ./assets/img/pub_roboirs.jpg
+
+  - title: 'Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering'
+    authors: Hao Wang, Jiuzhou Lei, <strong>Dayou Li</strong>, Bangya Liu, Minghui Zheng, Manling Li, Ruohan Zhang, Zhiwen Fan
+    conference_short: CoRL
+    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2606.29201
+    page: https://behavior-uncloning.github.io/
+    image: ./assets/img/pub_uncloning.jpg
+
+  - title: Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring
+    authors: Xinmiao Xiong, Bangya Liu, Hao Wang, <strong>Dayou Li</strong>, Nuo Chen, Andrew Feng, Mingyu Ding, Suman Banerjee, Yang Zhou, Zhiwen Fan
     conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2408.10525
-    image: ./assets/img/MPGNet.jpg
-    # notes: Oral Presentation
-    demo: https://youtu.be/S_QKZqkh0w8
-    
-  - title: Coarse-to-Fine Detection of Multiple Seams for Robotic Welding
-    authors: Pengkun Wei, Shuo Cheng, <strong>Dayou Li</strong>, Ran Song, Yipeng Zhang, Wei Zhang*(*Corresponding author)
-    conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2408.10710
-    image: ./assets/img/weilding.jpg
-    # notes: Oral Presentation
-    demo: https://youtu.be/pq162HSP2D4
-
-  - title: Learning Instruction-Guided Manipulation Affordance via Large Models for Embodied Robotic Tasks
-    authors: <strong>Dayou Li</strong>, Chenkun Zhao, Shuo Yang, Lin Ma, Yibin Li, Wei Zhang*(*Corresponding author)
-    conference_short: ICARM
-    conference: IEEE International Conference on Advanced Robotics and Mechatronics <strong>(ICARM)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2408.10658
-    image: ./assets/img/ICARM.jpg
-    # notes: Oral Presentation
-    demo: https://youtu.be/tgQ_K1Yj2c0    
-    
-  - title: A Mobile Manipulation System for Automated Replenishment in the Field of Unmanned Retail
-    authors: <strong>Dayou Li</strong>, Pengkun Wei, Chenkun Zhao, Shuo Yang, Yibin Li, Wei Zhang*(*Corresponding author)
-    conference_short: ICMA
-    conference: IEEE International Conference on Mechatronics and Automation <strong>(ICMA)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10215742
-    image: ./assets/img/icma2.png
-    # notes: Oral Presentation
-    demo: https://youtu.be/g6WrF-I7tNw
-
-  - title: Multi-class 4-DoF Carton Box Detection for Heterogeneous Robotic Container Unloading
-    authors: Shuo Yang, <strong>Dayou Li</strong>, Chenkun Zhao, Pengkun Wei, Yibin Li, Wei Zhang* (*Corresponding author)
-    conference_short: RCAR
-    conference: IEEE International Conference on Real-time Computing and Robotics <strong>(RCAR)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/document/10249938
-    image: ./assets/img/rcar.png
-    # notes: Oral Presentation
-    demo: https://youtu.be/nYvCbNoYi5Y
-
-
- 
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2604.08718
+    page: https://lean-gate.github.io/
+    image: ./assets/img/pub_leangate.jpg
