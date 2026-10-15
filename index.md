@@ -38,5 +38,4 @@ I am a second-year PhD student of the [Physical Automation Intelligence(PHAI) La
 - Academic Scholarship, Shandong University (2 times), 2022-2024
 - Bronze Award, China International College Student Innovation Competition (SDU), 2024
 
-{% include_relative _includes/Lifestyle.md %}
 
